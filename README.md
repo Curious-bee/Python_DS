@@ -1,4 +1,3 @@
-# numpy
-still in progress
-learning continuesss..
-2nd change
+# Towards Machine Learning
+
+1. K Nearest Neighbour vector Implementation 
